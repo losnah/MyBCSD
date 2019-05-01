@@ -56,6 +56,10 @@ Glide는 구글에서 2014년에 공개된 이미지 라이브러리로, 웹 상
 구체적인 사용방법에 대한 포스팅 URL : http://dktfrmaster.blogspot.com/2016/09/glide.html
 
 # Firebase Auth
+Firebase란 구글에서 인수한 모바일 및 웹 애플리케이션 개발 플랫폼입니다.
+이를 사용하면 서버 관리를 구글에서 해주기 때문에 편리하고, Firebase 하나만으로도 앱 하나를 만들 수 있습니다.
+이러한 Firebase에서 제공되는 Firebase 서비스 중 하나인 Authentication는 앱에서 사용자 인증 시 필요한 백엔드 서비스와 사용하기 쉬운 SDK, 기성 UI를 제공하는 라이브러리입니다.
+예를 들어, Firebase Authentication를 이용해  Firebase를 안드로이드 스튜디오에 연결하고 Google 로그인을 통해 앱에서 사용자의 신원 정보 등을 얻을 수 있습니다.
 
 >Open Source Library 실습 (실습6 하단에 첨부)
 실습 4에 ButterKnife를 활용한다.
