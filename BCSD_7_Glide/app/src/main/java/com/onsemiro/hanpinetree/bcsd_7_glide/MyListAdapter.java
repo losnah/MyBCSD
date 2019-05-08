@@ -13,9 +13,9 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 
 public class MyListAdapter extends BaseAdapter {
-    Context context;
-    ArrayList<list_item> list_itemArrayList;
-    ViewHolder viewholder;
+    private Context context;
+    private ArrayList<list_item> list_itemArrayList;
+    private ViewHolder viewholder;
 
 
     public MyListAdapter(Context context, ArrayList<list_item> list_itemArrayList) {

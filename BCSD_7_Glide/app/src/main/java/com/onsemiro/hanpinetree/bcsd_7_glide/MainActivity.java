@@ -9,10 +9,10 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
-    ListView listView;
-    MyListAdapter myListAdapter;
-    ArrayList<list_item> list_itemArrayList;
-    ProgressBar mProgressbar;
+   private ListView listView;
+   private MyListAdapter myListAdapter;
+   private ArrayList<list_item> list_itemArrayList;
+   private ProgressBar mProgressbar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
