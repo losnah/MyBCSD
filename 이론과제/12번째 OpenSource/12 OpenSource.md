@@ -30,6 +30,8 @@ ButterKnife는 안드로이드용 뷰 바인딩 라이브러리로, 오픈소스
  즉 findviewbyid를 좀 더 간편하게 사용하게 해주는 오픈 api라 보면 됩니다.
 
  버터나이프 홈페이지 URL :  http://jakewharton.github.io/butterknife/
+ 버터나이프 사용 예시 : https://loglevel.tistory.com/5
+                      http://snowdeer.github.io/android/2017/03/25/android-butter-knife-library/
 
 
 
