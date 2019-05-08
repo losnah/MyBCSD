@@ -27,7 +27,6 @@ android {
         release {
             // 프로가드 활성화
             minifyEnabled true
-
             // 기본 프로가드 설정
             proguardFile getDefaultProguardFile('proguard-android.txt')
             // 프로젝트에 필요한 프로가드 설정
